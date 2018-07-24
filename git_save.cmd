@@ -1,4 +1,4 @@
 git add -A
-git commit -a -m "saving work in progress"
+git commit --amend
 git push
 pause
